@@ -1,0 +1,9 @@
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\obj\Debug\object oriented 2 lab 2 (inheritance).csproj.AssemblyReference.cache
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\obj\Debug\object oriented 2 lab 2 (inheritance).csproj.SuggestedBindingRedirects.cache
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\obj\Debug\object oriented 2 lab 2 (inheritance).csproj.CoreCompileInputs.cache
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\bin\Debug\object oriented 2 lab 2 (inheritance).exe.config
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\bin\Debug\object oriented 2 lab 2 (inheritance).exe
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\bin\Debug\object oriented 2 lab 2 (inheritance).pdb
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\obj\Debug\object oriented 2 lab 2 (inheritance).exe
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\obj\Debug\object oriented 2 lab 2 (inheritance).pdb
+C:\Users\diako\Desktop\object oriented programming 2\object oriented 2 lab 2 (inheritance)\object oriented 2 lab 2 (inheritance)\bin\Debug\employees.txt
