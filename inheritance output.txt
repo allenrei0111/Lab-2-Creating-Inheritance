@@ -1,0 +1,9 @@
+Average weekly pay: $117,022.49
+Highest waged pay: $2,334.50
+Highest waged employee: Elle Driver
+Lowest Salaried pay: $20,500.00
+Lowest Salaried employee: Samuel Ludlow III
+Percentage of salaried employees: 33.3333333333333%
+Percentage of waged employees: 44.4444444444444%
+Percentage of part-time employees: 22.2222222222222%
+Press any key to continue . . .
